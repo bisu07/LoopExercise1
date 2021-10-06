@@ -1,0 +1,14 @@
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\bin\Debug\netcoreapp3.1\IterationStatementsExcercise1.exe
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\bin\Debug\netcoreapp3.1\IterationStatementsExcercise1.deps.json
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\bin\Debug\netcoreapp3.1\IterationStatementsExcercise1.runtimeconfig.json
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\bin\Debug\netcoreapp3.1\IterationStatementsExcercise1.runtimeconfig.dev.json
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\bin\Debug\netcoreapp3.1\IterationStatementsExcercise1.dll
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\bin\Debug\netcoreapp3.1\IterationStatementsExcercise1.pdb
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.csproj.AssemblyReference.cache
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.AssemblyInfoInputs.cache
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.AssemblyInfo.cs
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.csproj.CoreCompileInputs.cache
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.dll
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.pdb
+C:\Users\bishal\Desktop\repos\IterationStatementsExcercise1\IterationStatementsExcercise1\obj\Debug\netcoreapp3.1\IterationStatementsExcercise1.genruntimeconfig.cache
